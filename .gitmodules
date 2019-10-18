@@ -1,0 +1,39 @@
+[submodule "/home/fj5/.vim/bundle/Vundle.vim"]
+	path = /home/fj5/.vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "vim-colorschemes"]
+	path = vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "/home/fj5/.vim/bundle/vim-colorschemes"]
+	path = /home/fj5/.vim/bundle/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "/home/fj5/.vim/bundle/indentline"]
+	path = /home/fj5/.vim/bundle/indentline
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "/home/fj5/.vim/bundle/jedi-vim"]
+	path = /home/fj5/.vim/bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "/home/fj5/.vim/bundle/L9"]
+	path = /home/fj5/.vim/bundle/L9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "/home/fj5/.vim/bundle/vim-fugitive"]
+	path = /home/fj5/.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "/home/fj5/.vim/bundle/vim"]
+	path = /home/fj5/.vim/bundle/vim
+	url = https://github.com/dracula/vim.git
+[submodule "/home/fj5/.vim/bundle/vim-packer"]
+	path = /home/fj5/.vim/bundle/vim-packer
+	url = https://github.com/hashivim/vim-packer.git
+[submodule "/home/fj5/.vim/bundle/vim-puppet"]
+	path = /home/fj5/.vim/bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "/home/fj5/.vim/bundle/vim-surround"]
+	path = /home/fj5/.vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "/home/fj5/.vim/bundle/vim-terraform"]
+	path = /home/fj5/.vim/bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
+[submodule "/home/fj5/.vim/bundle/vim-vagrant"]
+	path = /home/fj5/.vim/bundle/vim-vagrant
+	url = https://github.com/hashivim/vim-vagrant.git
